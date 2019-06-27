@@ -1,1 +1,1 @@
-# ScoreBoard Implementaion in Python3
+ScoreBoard Implementation in Python3
